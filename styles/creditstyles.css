@@ -14,3 +14,14 @@
 #credits {
     text-align: center;
 }
+
+.fight-back {
+    border: 3px solid red;
+    margin: auto;
+    text-align: center;
+    width: 200px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin-top: 50px;
+    font-size: 15pt;
+    font-weight: bold;
+}
