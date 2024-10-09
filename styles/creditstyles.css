@@ -2,7 +2,15 @@
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     border: 3px solid black;
-    width: 300px;
+    width: 350px;
     display: block;
     margin: auto;
+}
+
+.credits li {
+    line-height: 1.5;
+}
+
+#credits {
+    text-align: center;
 }
