@@ -1,0 +1,50 @@
+:root {
+    scroll-behavior: smooth;
+}
+
+.heading {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.subheading {
+    color: #808080;
+    font-style: italic;
+    text-align: center;
+    font-size: 11pt;
+}
+
+#story {
+    margin-right: 30px;
+    float: left;
+    padding-left: 20px;
+    font-size: 12pt;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+#offical {
+    text-align: center;
+    display: inline-block;
+    max-width: 50%;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.content2 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container img{
+    float: left;
+    margin-left: 30%;
+}

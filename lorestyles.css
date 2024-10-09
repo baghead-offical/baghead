@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.list-border {
+    border: 3px solid black;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 50px;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.list-container {
+    text-align: center;
+}
+
+.mylist {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.table {
+    border: 3px solid black;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.table a {
+    color: #0000ee;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+.table a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+:target {
+    background-color: yellow;
+}
