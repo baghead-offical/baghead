@@ -1,0 +1,16 @@
+.film {
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 16px;
+    padding: 15px 32px;
+    border: none;
+    text-decoration: none;
+}
