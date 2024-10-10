@@ -10,5 +10,4 @@ It is currently unknown when or if mobile support will be added. Issues related 
 If there is an issue with this website, create an issue with GitHub.
 
 ## Video
-Video page is live!
-(Linked video on CatBox temporarily, since I can't upload to YouTube right now)
+View the video on YouTube [here](https://youtu.be/zXIeTu86C2Q)
