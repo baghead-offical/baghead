@@ -11,5 +11,4 @@ If there is an issue with this website, create an issue with GitHub.
 
 ## Video
 Video page is live!
-
--# Linked video on CatBox temporarily, since I can't upload to YouTube right now. 
+(Linked video on CatBox temporarily, since I can't upload to YouTube right now)
