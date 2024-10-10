@@ -10,4 +10,4 @@ It is currently unknown when or if mobile support will be added. Issues related 
 If there is an issue with this website, create an issue with GitHub.
 
 ## Video
-The video will be added to the website shortly under a new page. 
+The YouTube link doesn't work yet. It'll be added shortly. 
