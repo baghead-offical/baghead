@@ -21,3 +21,8 @@ body{
     border: none;
     text-decoration: none;
 }
+
+.button:hover {
+    background-color: #00764b;
+    cursor: pointer;
+}
